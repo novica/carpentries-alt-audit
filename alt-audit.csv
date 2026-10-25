@@ -1,0 +1,887 @@
+"lesson","file","line","type","what","status","missing"
+"genomics-r-intro","genomics-r-intro/episodes/00-introduction.Rmd",135,"md-image","fig/rstudio_login_screen.png","alt",FALSE
+"genomics-r-intro","genomics-r-intro/episodes/00-introduction.Rmd",142,"md-image","fig/rstudio_session_default.png","alt",FALSE
+"genomics-r-intro","genomics-r-intro/episodes/00-introduction.Rmd",166,"md-image","fig/new_project_window.png","alt",FALSE
+"genomics-r-intro","genomics-r-intro/episodes/00-introduction.Rmd",230,"md-image","fig/rstudio_session_4pane_layout.png","alt",FALSE
+"genomics-r-intro","genomics-r-intro/episodes/00-introduction.Rmd",542,"md-image","fig/studio_contexthelp1.png","alt",FALSE
+"genomics-r-intro","genomics-r-intro/episodes/00-introduction.Rmd",548,"md-image","fig/studio_contexthelp2.png","alt",FALSE
+"genomics-r-intro","genomics-r-intro/episodes/01-r-basics.Rmd",241,"md-image","fig/rstudio_script_warning.png","caption_only",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/02-data-prelude.Rmd",61,"md-image","fig/variant_calling_workflow.png","alt",FALSE
+"genomics-r-intro","genomics-r-intro/episodes/03-basics-factors-dataframes.Rmd",414,"chunk","<unnamed> [base]","none",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/03-basics-factors-dataframes.Rmd",447,"chunk","<unnamed> [base]","none",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/03-basics-factors-dataframes.Rmd",188,"md-image","fig/rstudio_dataframeview.png","caption_only",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/03-basics-factors-dataframes.Rmd",854,"md-image","fig/rstudio_import_menu.png","caption_only",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/03-basics-factors-dataframes.Rmd",859,"md-image","fig/rstudio_import_screen.png","caption_only",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/04-bioconductor-vcfr.Rmd",34,"md-image","fig/bioconductor_website_screenshot.jpg","alt",FALSE
+"genomics-r-intro","genomics-r-intro/episodes/04-bioconductor-vcfr.Rmd",92,"md-image","fig/bioconductor_search.jpg","alt",FALSE
+"genomics-r-intro","genomics-r-intro/episodes/05-dplyr.Rmd",415,"md-image","fig/split_apply_combine.png","alt",FALSE
+"genomics-r-intro","genomics-r-intro/episodes/06-data-visualization.Rmd",128,"chunk","first-ggplot [ggplot]","none",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/06-data-visualization.Rmd",164,"chunk","create-ggplot-object [ggplot]","none",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/06-data-visualization.Rmd",171,"chunk","adding-transparency [ggplot]","none",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/06-data-visualization.Rmd",178,"chunk","adding-colors [ggplot]","none",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/06-data-visualization.Rmd",186,"chunk","color-by-sample-1 [ggplot]","none",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/06-data-visualization.Rmd",193,"chunk","color-by-sample-2 [ggplot]","none",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/06-data-visualization.Rmd",200,"chunk","add-axis-labels [ggplot]","none",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/06-data-visualization.Rmd",209,"chunk","add-main-title [ggplot]","none",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/06-data-visualization.Rmd",237,"chunk","scatter-challenge [ggplot]","none",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/06-data-visualization.Rmd",250,"chunk","change-font-family [ggplot]","none",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/06-data-visualization.Rmd",263,"chunk","first-facet [ggplot]","none",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/06-data-visualization.Rmd",273,"chunk","second-facet [ggplot]","none",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/06-data-visualization.Rmd",283,"chunk","facet-plot-white-bg [ggplot]","none",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/06-data-visualization.Rmd",305,"chunk","scatter-challenge-2 [ggplot]","none",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/06-data-visualization.Rmd",321,"chunk","barplot [ggplot]","none",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/06-data-visualization.Rmd",339,"chunk","barplot-challenge [ggplot]","none",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/06-data-visualization.Rmd",353,"chunk","density [ggplot]","none",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/06-data-visualization.Rmd",370,"chunk","density-challenge [ggplot]","none",TRUE
+"genomics-r-intro","genomics-r-intro/episodes/06-data-visualization.Rmd",44,"md-image","https://ggplot2.tidyverse.org/logo.png","alt",FALSE
+"genomics-r-intro","genomics-r-intro/episodes/07-r-help.Rmd",24,"md-image","fig/oreilly_book_covers.png","alt",FALSE
+"lc-r","lc-r/episodes/00-before-we-start.Rmd",66,"chunk","rstudio-analogy [image]","alt",FALSE
+"lc-r","lc-r/episodes/00-before-we-start.Rmd",210,"chunk","rstudio-panes [image]","alt",FALSE
+"lc-r","lc-r/episodes/00-before-we-start.Rmd",407,"chunk","install-packages [image]","alt",FALSE
+"lc-r","lc-r/episodes/02-starting-with-data.Rmd",87,"chunk","directory-structure [image]","alt",FALSE
+"lc-r","lc-r/episodes/02-starting-with-data.Rmd",222,"chunk","<unnamed> [image]","alt",FALSE
+"lc-r","lc-r/episodes/02-starting-with-data.Rmd",271,"chunk","<unnamed> [image]","alt",FALSE
+"lc-r","lc-r/episodes/03-data-cleaning-and-transformation.Rmd",187,"chunk","<unnamed> [image]","alt",FALSE
+"lc-r","lc-r/episodes/03-data-cleaning-and-transformation.Rmd",191,"chunk","<unnamed> [image]","alt",FALSE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",142,"chunk","<unnamed> [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",148,"chunk","<unnamed> [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",181,"chunk","<unnamed> [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",216,"chunk","<unnamed> [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",240,"chunk","<unnamed> [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",258,"chunk","<unnamed> [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",301,"chunk","<unnamed> [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",313,"chunk","<unnamed> [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",327,"chunk","boxplot-with-points [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",353,"chunk","violin-plot [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",367,"chunk","boxplot-exercise-subcollection [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",385,"chunk","<unnamed> [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",412,"chunk","<unnamed> [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",430,"chunk","<unnamed> [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",440,"chunk","barplot-dodge [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",447,"chunk","<unnamed> [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",454,"chunk","<unnamed> [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",498,"chunk","first-time-series [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",507,"chunk","<unnamed> [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",515,"chunk","time-series-with-colors [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",544,"chunk","first-facet [ggplot]","alt",FALSE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",553,"chunk","<unnamed> [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",585,"chunk","average-weight-time-series [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",608,"chunk","<unnamed> [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",639,"chunk","<unnamed> [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",659,"chunk","<unnamed> [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/04-data-viz-ggplot.Rmd",697,"chunk","<unnamed> [ggplot]","none",TRUE
+"lc-r","lc-r/episodes/05-reproducible-reports.Rmd",180,"chunk","<unnamed> [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/introduction-r-rstudio.Rmd",102,"md-image","fig/rstudio_screenshot.png","alt",FALSE
+"R-ecology-lesson","R-ecology-lesson/episodes/introduction-r-rstudio.Rmd",139,"md-image","fig/rstudio_settings.png","alt",FALSE
+"R-ecology-lesson","R-ecology-lesson/episodes/introduction-r-rstudio.Rmd",171,"md-image","fig/files_pane.png","alt",FALSE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",112,"chunk","bare-plot [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",118,"chunk","plot-with-axes [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",125,"chunk","scatter-plot [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",139,"chunk","geom-error [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",152,"chunk","change-alpha [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",159,"chunk","change-color [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",201,"chunk","color-plot-type [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",216,"chunk","modify-points-challenge-answer [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",228,"chunk","modify-color-challenge-answer [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",243,"chunk","scale-viridis [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",251,"chunk","scale-log [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",263,"chunk","blank-boxplot [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",269,"chunk","boxplot [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",276,"chunk","boxplot-color [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",283,"chunk","boxplot-fill [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",294,"chunk","boxplot-label-wrap [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",308,"chunk","boxplot-points [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",316,"chunk","boxplot-jitter [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",324,"chunk","boxplot-outliers [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",332,"chunk","global-color [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",342,"chunk","geom-color [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",350,"chunk","reverse-layers [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",358,"chunk","fill-na [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",376,"chunk","violin-challenge-answer [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",391,"chunk","violin-challenge-answer-2 [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",411,"chunk","<unnamed> [ggplot-obj]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",423,"chunk","theme-bw [ggplot-obj]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",429,"chunk","text-size [ggplot-obj]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",437,"chunk","element-blank [ggplot-obj]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",446,"chunk","legend-remove [ggplot-obj]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",490,"chunk","labels [ggplot-obj]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",512,"chunk","customizing-challenge-answer [ggplot-obj]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/visualizing-ggplot.Rmd",534,"chunk","facet-wrap [ggplot-obj]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/working-with-data.Rmd",366,"chunk","date-plot-challenge-answer [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/working-with-data.Rmd",519,"chunk","time-series-challenge-answer [ggplot]","none",TRUE
+"R-ecology-lesson","R-ecology-lesson/episodes/working-with-data.Rmd",553,"md-image","fig/pivot_wider.png","alt",FALSE
+"R-ecology-lesson","R-ecology-lesson/episodes/working-with-data.Rmd",580,"md-image","fig/pivot_longer.png","alt",FALSE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/01-rstudio-intro.Rmd",68,"md-image","fig/01-rstudio.png","alt",FALSE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/01-rstudio-intro.Rmd",72,"md-image","fig/01-rstudio-script.png","alt",FALSE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/02-project-intro.Rmd",33,"md-image","fig/bad_layout.png","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/06-data-subsetting.Rmd",392,"md-image","fig/06-rmd-inequality.1.png","alt",FALSE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/06-data-subsetting.Rmd",396,"md-image","fig/06-rmd-inequality.2.png","alt",FALSE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/08-plot-ggplot2.Rmd",92,"chunk","build-ggplot-3 [ggplot]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/08-plot-ggplot2.Rmd",120,"chunk","ch1-sol [ggplot]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/08-plot-ggplot2.Rmd",146,"chunk","ch2-sol [ggplot]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/08-plot-ggplot2.Rmd",160,"chunk","lifeExp-line [ggplot]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/08-plot-ggplot2.Rmd",172,"chunk","lifeExp-line-point [ggplot]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/08-plot-ggplot2.Rmd",180,"chunk","lifeExp-layer-example-1 [ggplot]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/08-plot-ggplot2.Rmd",216,"chunk","ch3-sol [ggplot]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/08-plot-ggplot2.Rmd",232,"chunk","lifeExp-vs-gdpPercap-scatter3 [ggplot]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/08-plot-ggplot2.Rmd",244,"chunk","axis-scale [ggplot]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/08-plot-ggplot2.Rmd",271,"chunk","lm-fit [ggplot]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/08-plot-ggplot2.Rmd",278,"chunk","lm-fit2 [ggplot]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/08-plot-ggplot2.Rmd",303,"chunk","ch4a-sol [ggplot]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/08-plot-ggplot2.Rmd",333,"chunk","ch4b-sol [ggplot]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/08-plot-ggplot2.Rmd",362,"chunk","facet [ggplot]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/08-plot-ggplot2.Rmd",386,"chunk","theme [ggplot]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/08-plot-ggplot2.Rmd",453,"chunk","ch5-sol [ggplot]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/09-vectorization.Rmd",102,"chunk","ch2-sol [ggplot]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/12-plyr.Rmd",61,"md-image","fig/12-plyr-fig1.png","alt",FALSE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/12-plyr.Rmd",88,"md-image","fig/12-plyr-fig2.png","alt",FALSE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/13-dplyr.Rmd",313,"chunk","<unnamed> [ggplot]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/13-dplyr.Rmd",325,"chunk","<unnamed> [ggplot]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/13-dplyr.Rmd",339,"chunk","<unnamed> [ggplot]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/13-dplyr.Rmd",96,"md-image","fig/13-dplyr-fig1.png","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/13-dplyr.Rmd",152,"md-image","fig/13-dplyr-fig2.png","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/13-dplyr.Rmd",164,"md-image","fig/13-dplyr-fig3.png","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/14-tidyr.Rmd",37,"md-image","fig/14-tidyr-fig1.png","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/14-tidyr.Rmd",115,"md-image","fig/14-tidyr-fig2.png","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/14-tidyr.Rmd",119,"md-image","fig/14-tidyr-fig3.png","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/14-tidyr.Rmd",135,"md-image","fig/14-tidyr-fig4.png","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/15-knitr-markdown.Rmd",257,"chunk","rmd_to_html_fig [base]","none",TRUE
+"r-novice-gapminder-es","r-novice-gapminder-es/episodes/15-knitr-markdown.Rmd",69,"md-image","fig/New_R_Markdown.png","none",TRUE
+"r-novice-gapminder","r-novice-gapminder/episodes/01-rstudio-intro.Rmd",74,"md-image","fig/01-rstudio.png","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/01-rstudio-intro.Rmd",79,"md-image","fig/01-rstudio-script.png","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/02-project-intro.Rmd",34,"md-image","fig/bad_layout.png","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/06-data-subsetting.Rmd",378,"md-image","fig/06-rmd-inequality.1.png","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/06-data-subsetting.Rmd",382,"md-image","fig/06-rmd-inequality.2.png","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/08-plot-ggplot2.Rmd",64,"chunk","blank-ggplot [ggplot]","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/08-plot-ggplot2.Rmd",79,"chunk","ggplot-with-aes [ggplot]","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/08-plot-ggplot2.Rmd",93,"chunk","lifeExp-vs-gdpPercap-scatter [ggplot]","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/08-plot-ggplot2.Rmd",121,"chunk","ch1-sol [ggplot]","caption_only",TRUE
+"r-novice-gapminder","r-novice-gapminder/episodes/08-plot-ggplot2.Rmd",148,"chunk","ch2-sol [ggplot]","caption_only",TRUE
+"r-novice-gapminder","r-novice-gapminder/episodes/08-plot-ggplot2.Rmd",162,"chunk","lifeExp-line [ggplot]","none",TRUE
+"r-novice-gapminder","r-novice-gapminder/episodes/08-plot-ggplot2.Rmd",171,"chunk","lifeExp-line-by [ggplot]","none",TRUE
+"r-novice-gapminder","r-novice-gapminder/episodes/08-plot-ggplot2.Rmd",182,"chunk","lifeExp-line-point [ggplot]","none",TRUE
+"r-novice-gapminder","r-novice-gapminder/episodes/08-plot-ggplot2.Rmd",191,"chunk","lifeExp-layer-example-1 [ggplot]","none",TRUE
+"r-novice-gapminder","r-novice-gapminder/episodes/08-plot-ggplot2.Rmd",223,"chunk","ch3-sol [ggplot]","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/08-plot-ggplot2.Rmd",237,"chunk","lifeExp-vs-gdpPercap-scatter3 [ggplot]","none",TRUE
+"r-novice-gapminder","r-novice-gapminder/episodes/08-plot-ggplot2.Rmd",249,"chunk","axis-scale [ggplot]","caption_only",TRUE
+"r-novice-gapminder","r-novice-gapminder/episodes/08-plot-ggplot2.Rmd",268,"chunk","lm-fit [ggplot]","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/08-plot-ggplot2.Rmd",276,"chunk","lm-fit2 [ggplot]","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/08-plot-ggplot2.Rmd",303,"chunk","ch4a-sol [ggplot]","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/08-plot-ggplot2.Rmd",331,"chunk","ch4b-sol [ggplot]","none",TRUE
+"r-novice-gapminder","r-novice-gapminder/episodes/08-plot-ggplot2.Rmd",360,"chunk","facet [ggplot]","none",TRUE
+"r-novice-gapminder","r-novice-gapminder/episodes/08-plot-ggplot2.Rmd",385,"chunk","theme [ggplot]","none",TRUE
+"r-novice-gapminder","r-novice-gapminder/episodes/08-plot-ggplot2.Rmd",449,"chunk","ch5-sol [ggplot]","none",TRUE
+"r-novice-gapminder","r-novice-gapminder/episodes/09-vectorization.Rmd",121,"chunk","ch2-sol [ggplot]","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/12-dplyr.Rmd",401,"chunk","<unnamed> [ggplot]","none",TRUE
+"r-novice-gapminder","r-novice-gapminder/episodes/12-dplyr.Rmd",419,"chunk","<unnamed> [ggplot]","none",TRUE
+"r-novice-gapminder","r-novice-gapminder/episodes/12-dplyr.Rmd",432,"chunk","<unnamed> [ggplot]","none",TRUE
+"r-novice-gapminder","r-novice-gapminder/episodes/12-dplyr.Rmd",92,"md-image","fig/13-dplyr-fig1.png","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/12-dplyr.Rmd",206,"md-image","fig/13-dplyr-fig2.png","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/12-dplyr.Rmd",223,"md-image","fig/13-dplyr-fig3.png","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/13-tidyr.Rmd",41,"md-image","fig/14-tidyr-fig1.png","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/13-tidyr.Rmd",125,"md-image","fig/14-tidyr-fig2.png","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/13-tidyr.Rmd",129,"md-image","fig/14-tidyr-fig3.png","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/13-tidyr.Rmd",156,"md-image","fig/14-tidyr-fig4.png","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/14-knitr-markdown.Rmd",316,"chunk","rmd_to_html_fig [base]","none",TRUE
+"r-novice-gapminder","r-novice-gapminder/episodes/14-knitr-markdown.Rmd",74,"md-image","fig/New_R_Markdown.png","alt",FALSE
+"r-novice-gapminder","r-novice-gapminder/episodes/14-knitr-markdown.Rmd",482,"md-image","fig/visual_mode_icon.png","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/01-starting-with-data.Rmd",656,"chunk","plot-avg-inflammation [base]","caption_only",TRUE
+"r-novice-inflammation","r-novice-inflammation/episodes/01-starting-with-data.Rmd",665,"chunk","plot-max-inflammation [base]","caption_only",TRUE
+"r-novice-inflammation","r-novice-inflammation/episodes/01-starting-with-data.Rmd",670,"chunk","plot-min-inflammation [base]","caption_only",TRUE
+"r-novice-inflammation","r-novice-inflammation/episodes/01-starting-with-data.Rmd",174,"md-image","fig/tag-variables.svg","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/01-starting-with-data.Rmd",191,"md-image","fig/arithmetic-variables.svg","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/01-starting-with-data.Rmd",222,"md-image","fig/reassign-variables.svg","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/01-starting-with-data.Rmd",242,"md-image","fig/new-variables.svg","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/01-starting-with-data.Rmd",254,"md-image","fig/memory-variables.svg","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/01-starting-with-data.Rmd",302,"md-image","fig/mass-age-assign-1.svg","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/01-starting-with-data.Rmd",309,"md-image","fig/mass-age-assign-2.svg","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/01-starting-with-data.Rmd",488,"md-image","fig/r-operations-across-margins.svg","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/02-func-R.Rmd",66,"md-image","fig/function-terminology.svg","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/03-loops-R.Rmd",35,"chunk","inflammation-01 [base]","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/04-cond.Rmd",39,"chunk","analyze [base]","none",TRUE
+"r-novice-inflammation","r-novice-inflammation/episodes/04-cond.Rmd",243,"chunk","using-conditions-01 [base]","none",TRUE
+"r-novice-inflammation","r-novice-inflammation/episodes/04-cond.Rmd",283,"chunk","conditional-challenge-hist [base]","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/04-cond.Rmd",368,"chunk","analyze-save [base]","none",TRUE
+"r-novice-inflammation","r-novice-inflammation/episodes/04-cond.Rmd",133,"md-image","fig/python-flowchart-conditional.svg","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/08-making-packages-R.Rmd",155,"md-image","fig/R-package-structure.svg","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/10-supp-addressing-data.Rmd",283,"chunk","logical_vectors_indexing2 [base]","none",TRUE
+"r-novice-inflammation","r-novice-inflammation/episodes/10-supp-addressing-data.Rmd",297,"chunk","plot-logical [base]","none",TRUE
+"r-novice-inflammation","r-novice-inflammation/episodes/12-supp-factors.Rmd",186,"chunk","reordering-factors [base]","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/12-supp-factors.Rmd",195,"chunk","reordering-factors-2 [base]","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/12-supp-factors.Rmd",209,"chunk","gender-counts [base]","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/12-supp-factors.Rmd",224,"chunk","updating-factors [base]","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/12-supp-factors.Rmd",247,"chunk","dropping-levels [base]","none",TRUE
+"r-novice-inflammation","r-novice-inflammation/episodes/12-supp-factors.Rmd",258,"chunk","adjusting-levels [base]","none",TRUE
+"r-novice-inflammation","r-novice-inflammation/episodes/14-supp-call-stack.Rmd",42,"md-image","fig/python-call-stack-01.svg","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/14-supp-call-stack.Rmd",48,"md-image","fig/python-call-stack-02.svg","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/14-supp-call-stack.Rmd",52,"md-image","fig/python-call-stack-03.svg","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/14-supp-call-stack.Rmd",59,"md-image","fig/python-call-stack-04.svg","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/14-supp-call-stack.Rmd",63,"md-image","fig/python-call-stack-05.svg","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/14-supp-call-stack.Rmd",67,"md-image","fig/python-call-stack-06.svg","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/14-supp-call-stack.Rmd",71,"md-image","fig/python-call-stack-07.svg","alt",FALSE
+"r-novice-inflammation","r-novice-inflammation/episodes/15-supp-loops-in-depth.Rmd",35,"chunk","analyze-function [base]","none",TRUE
+"r-socialsci","r-socialsci/episodes/00-intro.Rmd",153,"chunk","rstudio-analogy [image]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/00-intro.Rmd",161,"chunk","rstudio-analogy-2 [image]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/00-intro.Rmd",243,"md-image","fig/R_00_Rstudio_01.png","alt",FALSE
+"r-socialsci","r-socialsci/episodes/00-intro.Rmd",284,"md-image","fig/rstudio_project_files.jpeg","alt",FALSE
+"r-socialsci","r-socialsci/episodes/00-intro.Rmd",399,"md-image","fig/packages_pane.png","alt",FALSE
+"r-socialsci","r-socialsci/episodes/00-intro.Rmd",407,"md-image","fig/R_00_Rstudio_03.png","alt",FALSE
+"r-socialsci","r-socialsci/episodes/02-starting-with-data.Rmd",143,"chunk","here-figure [image]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/02-starting-with-data.Rmd",526,"chunk","factor-plot-default-order [base]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/02-starting-with-data.Rmd",547,"chunk","factor-plot-reorder [base]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/02-starting-with-data.Rmd",579,"chunk","factor-plot-exercise [base]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/02-starting-with-data.Rmd",64,"md-image","fig/data-frame.svg","alt",FALSE
+"r-socialsci","r-socialsci/episodes/04-tidyr.Rmd",61,"md-image","fig/tidy-data-wickham.png","none",TRUE
+"r-socialsci","r-socialsci/episodes/04-tidyr.Rmd",124,"md-image","fig/tidyr-pivot_wider_longer.gif","none",TRUE
+"r-socialsci","r-socialsci/episodes/04-tidyr.Rmd",221,"md-image","fig/separate_longer.png","alt",FALSE
+"r-socialsci","r-socialsci/episodes/04-tidyr.Rmd",261,"md-image","fig/pivot_wider.png","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",108,"chunk","<unnamed> [base]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",195,"chunk","first-ggplot [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",248,"chunk","create-ggplot-object [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",281,"chunk","adding-transparency [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",300,"chunk","adding-jitter [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",313,"chunk","adding-width-height [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",324,"chunk","adding-colors [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",346,"chunk","color-by-species [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",369,"chunk","color-by-village-notes [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",391,"chunk","scatter-challenge [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",413,"chunk","boxplot [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",422,"chunk","boxplot-with-jitter [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",453,"chunk","violin-plot [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",473,"chunk","boxplot-exercise [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",489,"chunk","boxplot-exercise-factor [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",506,"chunk","barplot-1 [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",515,"chunk","barplot-stack [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",526,"chunk","barplot-dodge [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",552,"chunk","barplot-wall-type [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",572,"chunk","barplot-memb-assoc [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",607,"chunk","barplot-wall-types-labeled [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",631,"chunk","barplot-faceting [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",648,"chunk","barplot-theme-bw [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",695,"chunk","percent-items-barplot [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",738,"chunk","ggplot-customization [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",752,"chunk","ggplot-customization-font-size [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",776,"chunk","ggplot-customization-label-orientation [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/05-ggplot2.Rmd",795,"chunk","ggplot-custom-themes [ggplot]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/06-rmarkdown.Rmd",57,"chunk","rmarkdown-wizards [image]","alt",FALSE
+"r-socialsci","r-socialsci/episodes/06-rmarkdown.Rmd",464,"chunk","my-fancy-plot [ggplot]","none",TRUE
+"r-socialsci","r-socialsci/episodes/06-rmarkdown.Rmd",485,"chunk","caption-plot [ggplot]","caption_only",TRUE
+"r-socialsci","r-socialsci/episodes/06-rmarkdown.Rmd",70,"md-image","fig/new-rmd.png","alt",FALSE
+"r-socialsci","r-socialsci/episodes/06-rmarkdown.Rmd",210,"md-image","fig/rmd-rmd_to_html.png","alt",FALSE
+"cloud-genomics","cloud-genomics/episodes/02-logging-onto-cloud.md",99,"md-image","fig/putty_screenshot_1.png","alt",FALSE
+"cloud-genomics","cloud-genomics/episodes/02-logging-onto-cloud.md",105,"md-image","fig/putty_screenshot_2.png","alt",FALSE
+"cloud-genomics","cloud-genomics/episodes/02-logging-onto-cloud.md",113,"md-image","fig/putty_screenshot_3.png","alt",FALSE
+"cloud-genomics","cloud-genomics/episodes/02-logging-onto-cloud.md",129,"md-image","fig/terminal.png","alt",FALSE
+"cloud-genomics","cloud-genomics/learners/LaunchingInstances.md",126,"md-image","fig/logging-onto-cloud_8.png","alt",FALSE
+"cloud-genomics","cloud-genomics/learners/LaunchingInstances.md",129,"md-image","fig/logging-onto-cloud_9.png","alt",FALSE
+"cloud-genomics","cloud-genomics/learners/LaunchingInstances.md",132,"md-image","fig/logging-onto-cloud_10.png","alt",FALSE
+"cloud-genomics","cloud-genomics/learners/LaunchingInstances.md",155,"md-image","fig/logging-onto-cloud_11.png","alt",FALSE
+"cloud-genomics","cloud-genomics/learners/LaunchingInstances.md",202,"md-image","fig/logging-onto-cloud_11.png","alt",FALSE
+"genomics-workshop","genomics-workshop/instructors/AMI-setup.md",56,"md-image","fig/logging-onto-cloud_1.png","alt",FALSE
+"genomics-workshop","genomics-workshop/instructors/AMI-setup.md",60,"md-image","fig/logging-onto-cloud_1b.png","alt",FALSE
+"genomics-workshop","genomics-workshop/instructors/AMI-setup.md",64,"md-image","fig/logging-onto-cloud_2.png","alt",FALSE
+"genomics-workshop","genomics-workshop/instructors/AMI-setup.md",68,"md-image","fig/logging-onto-cloud_3.png","alt",FALSE
+"genomics-workshop","genomics-workshop/instructors/AMI-setup.md",70,"md-image","fig/logging-onto-cloud_3b.png","alt",FALSE
+"genomics-workshop","genomics-workshop/instructors/AMI-setup.md",74,"md-image","fig/logging-onto-cloud-new-key-pair_1.png","alt",FALSE
+"genomics-workshop","genomics-workshop/instructors/AMI-setup.md",79,"md-image","fig/logging-onto-cloud-security-group_1.png","alt",FALSE
+"genomics-workshop","genomics-workshop/instructors/AMI-setup.md",86,"md-image","fig/logging-onto-cloud-security-group_2.png","alt",FALSE
+"genomics-workshop","genomics-workshop/instructors/AMI-setup.md",91,"md-image","fig/logging-onto-cloud-security-group_3.png","alt",FALSE
+"genomics-workshop","genomics-workshop/instructors/AMI-setup.md",95,"md-image","fig/logging-onto-cloud-summary.png","alt",FALSE
+"genomics-workshop","genomics-workshop/instructors/AMI-setup.md",108,"md-image","fig/logging-onto-cloud_5.png","alt",FALSE
+"genomics-workshop","genomics-workshop/instructors/AMI-setup.md",112,"md-image","fig/logging-onto-cloud_6.png","alt",FALSE
+"genomics-workshop","genomics-workshop/instructors/AMI-setup.md",146,"md-image","fig/logging-onto-cloud_5.png","alt",FALSE
+"genomics-workshop","genomics-workshop/instructors/AMI-setup.md",150,"md-image","fig/logging-onto-cloud_6.png","alt",FALSE
+"genomics-workshop","genomics-workshop/instructors/AMI-setup.md",190,"md-image","fig/logging-onto-cloud_7.png","alt",FALSE
+"git-novice-es","git-novice-es/episodes/01-basics.md",25,"md-image","fig/phd101212s.png","caption_only",TRUE
+"git-novice-es","git-novice-es/episodes/01-basics.md",38,"md-image","fig/play-changes.svg","alt",FALSE
+"git-novice-es","git-novice-es/episodes/01-basics.md",42,"md-image","fig/versions.svg","alt",FALSE
+"git-novice-es","git-novice-es/episodes/01-basics.md",46,"md-image","fig/merge.svg","alt",FALSE
+"git-novice-es","git-novice-es/episodes/04-changes.md",341,"md-image","fig/git-staging-area.svg","alt",FALSE
+"git-novice-es","git-novice-es/episodes/04-changes.md",577,"md-image","fig/git-committing.svg","alt",FALSE
+"git-novice-es","git-novice-es/episodes/05-history.md",281,"md-image","fig/git-checkout.svg","alt",FALSE
+"git-novice-es","git-novice-es/episodes/05-history.md",286,"md-image","fig/git_staging.svg","caption_only",TRUE
+"git-novice-es","git-novice-es/episodes/07-github.md",26,"md-image","fig/github-create-repo-01.png","alt",FALSE
+"git-novice-es","git-novice-es/episodes/07-github.md",30,"md-image","fig/github-create-repo-02.png","alt",FALSE
+"git-novice-es","git-novice-es/episodes/07-github.md",34,"md-image","fig/github-create-repo-03.png","alt",FALSE
+"git-novice-es","git-novice-es/episodes/07-github.md",46,"md-image","fig/git-freshly-made-github-repo.svg","alt",FALSE
+"git-novice-es","git-novice-es/episodes/07-github.md",50,"md-image","fig/github-find-repo-string.png","alt",FALSE
+"git-novice-es","git-novice-es/episodes/07-github.md",69,"md-image","fig/github-change-repo-string.png","alt",FALSE
+"git-novice-es","git-novice-es/episodes/07-github.md",160,"md-image","fig/github-repo-after-first-push.svg","alt",FALSE
+"git-novice-es","git-novice-es/episodes/08-collab.md",35,"md-image","fig/github-add-collaborators.png","alt",FALSE
+"git-novice-es","git-novice-es/episodes/08-collab.md",49,"md-image","fig/github-collaboration.svg","alt",FALSE
+"git-novice-es","git-novice-es/episodes/09-conflict.md",118,"md-image","fig/conflict.svg","alt",FALSE
+"git-novice-es","git-novice-es/episodes/14-supplemental-rstudio.md",23,"md-image","fig/RStudio_screenshot_newproject.png","none",TRUE
+"git-novice-es","git-novice-es/episodes/14-supplemental-rstudio.md",30,"md-image","fig/RStudio_screenshot_existingdirectory.png","none",TRUE
+"git-novice-es","git-novice-es/episodes/14-supplemental-rstudio.md",52,"md-image","fig/RStudio_screenshot_navigateexisting.png","none",TRUE
+"git-novice-es","git-novice-es/episodes/14-supplemental-rstudio.md",56,"md-image","fig/RStudio_screenshot_afterclone.png","none",TRUE
+"git-novice-es","git-novice-es/episodes/14-supplemental-rstudio.md",60,"md-image","fig/RStudio_screenshot_editfiles.png","none",TRUE
+"git-novice-es","git-novice-es/episodes/14-supplemental-rstudio.md",64,"md-image","fig/RStudio_screenshot_commit.png","none",TRUE
+"git-novice-es","git-novice-es/episodes/14-supplemental-rstudio.md",72,"md-image","fig/RStudio_screenshot_review.png","none",TRUE
+"git-novice-es","git-novice-es/episodes/14-supplemental-rstudio.md",78,"md-image","fig/RStudio_screenshot_history.png","none",TRUE
+"git-novice-es","git-novice-es/episodes/14-supplemental-rstudio.md",95,"md-image","fig/RStudio_screenshot_viewhistory.png","none",TRUE
+"git-novice-es","git-novice-es/episodes/14-supplemental-rstudio.md",99,"md-image","fig/RStudio_screenshot_gitignore.png","none",TRUE
+"git-novice","git-novice/episodes/01-basics.md",25,"md-image","fig/phd101212s.png","alt",FALSE
+"git-novice","git-novice/episodes/01-basics.md",41,"md-image","fig/play-changes.svg","alt",FALSE
+"git-novice","git-novice/episodes/01-basics.md",48,"md-image","fig/versions.svg","alt",FALSE
+"git-novice","git-novice/episodes/01-basics.md",54,"md-image","fig/merge.svg","alt",FALSE
+"git-novice","git-novice/episodes/04-changes.md",401,"md-image","fig/git-staging-area.svg","alt",FALSE
+"git-novice","git-novice/episodes/04-changes.md",651,"md-image","fig/git-committing.svg","alt",FALSE
+"git-novice","git-novice/episodes/05-history.md",279,"md-image","fig/git-restore.svg","alt",FALSE
+"git-novice","git-novice/episodes/05-history.md",284,"md-image","fig/git_staging.svg","alt",FALSE
+"git-novice","git-novice/episodes/07-github.md",39,"md-image","fig/github-create-repo-01.png","alt",FALSE
+"git-novice","git-novice/episodes/07-github.md",48,"md-image","fig/github-create-repo-02.png","alt",FALSE
+"git-novice","git-novice/episodes/07-github.md",53,"md-image","fig/github-create-repo-03.png","alt",FALSE
+"git-novice","git-novice/episodes/07-github.md",67,"md-image","fig/git-staging-area.svg","alt",FALSE
+"git-novice","git-novice/episodes/07-github.md",71,"md-image","fig/git-freshly-made-github-repo.svg","alt",FALSE
+"git-novice","git-novice/episodes/07-github.md",83,"md-image","fig/github-change-repo-string.png","alt",FALSE
+"git-novice","git-novice/episodes/07-github.md",98,"md-image","fig/github-find-repo-string.png","alt",FALSE
+"git-novice","git-novice/episodes/07-github.md",392,"md-image","fig/github-repo-after-first-push.svg","alt",FALSE
+"git-novice","git-novice/episodes/08-collab.md",42,"md-image","fig/github-add-collaborators.png","alt",FALSE
+"git-novice","git-novice/episodes/08-collab.md",68,"md-image","fig/github-collaboration.svg","alt",FALSE
+"git-novice","git-novice/episodes/09-conflict.md",137,"md-image","fig/conflict.svg","alt",FALSE
+"git-novice","git-novice/episodes/14-supplemental-rstudio.md",31,"md-image","fig/RStudio_screenshot_newproject.png","alt",FALSE
+"git-novice","git-novice/episodes/14-supplemental-rstudio.md",38,"md-image","fig/RStudio_screenshot_existingdirectory.png","alt",FALSE
+"git-novice","git-novice/episodes/14-supplemental-rstudio.md",85,"md-image","fig/RStudio_screenshot_navigateexisting.png","alt",FALSE
+"git-novice","git-novice/episodes/14-supplemental-rstudio.md",92,"md-image","fig/RStudio_screenshot_afterclone.png","alt",FALSE
+"git-novice","git-novice/episodes/14-supplemental-rstudio.md",98,"md-image","fig/RStudio_screenshot_editfiles.png","alt",FALSE
+"git-novice","git-novice/episodes/14-supplemental-rstudio.md",103,"md-image","fig/RStudio_screenshot_commit.png","alt",FALSE
+"git-novice","git-novice/episodes/14-supplemental-rstudio.md",112,"md-image","fig/RStudio_screenshot_review.png","alt",FALSE
+"git-novice","git-novice/episodes/14-supplemental-rstudio.md",118,"md-image","fig/RStudio_screenshot_history.png","alt",FALSE
+"git-novice","git-novice/episodes/14-supplemental-rstudio.md",134,"md-image","fig/RStudio_screenshot_viewhistory.png","alt",FALSE
+"git-novice","git-novice/episodes/14-supplemental-rstudio.md",140,"md-image","fig/github_screenshot_find_commit_history_edited.png","alt",FALSE
+"git-novice","git-novice/episodes/14-supplemental-rstudio.md",144,"md-image","fig/github_screenshot_history_edited.png","alt",FALSE
+"git-novice","git-novice/episodes/14-supplemental-rstudio.md",156,"md-image","fig/RStudio_screenshot_gitignore.png","alt",FALSE
+"image-processing","image-processing/episodes/01-introduction.md",71,"md-image","fig/colonies-01.jpg","alt",FALSE
+"image-processing","image-processing/episodes/01-introduction.md",77,"md-image","fig/colony-mask.png","alt",FALSE
+"image-processing","image-processing/episodes/01-introduction.md",93,"md-image","fig/colonies-03.jpg","alt",FALSE
+"image-processing","image-processing/episodes/02-image-basics.md",51,"md-image","fig/maize-seedling-original.jpg","alt",FALSE
+"image-processing","image-processing/episodes/02-image-basics.md",56,"md-image","fig/maize-seedling-enlarged.jpg","alt",FALSE
+"image-processing","image-processing/episodes/02-image-basics.md",241,"md-image","fig/eight.png","alt",FALSE
+"image-processing","image-processing/episodes/02-image-basics.md",312,"md-image","fig/zero.png","alt",FALSE
+"image-processing","image-processing/episodes/02-image-basics.md",328,"md-image","fig/cartesian-coordinates.png","alt",FALSE
+"image-processing","image-processing/episodes/02-image-basics.md",335,"md-image","fig/image-coordinates.png","alt",FALSE
+"image-processing","image-processing/episodes/02-image-basics.md",342,"md-image","fig/left-hand-coordinates.png","alt",FALSE
+"image-processing","image-processing/episodes/02-image-basics.md",386,"md-image","fig/five.png","alt",FALSE
+"image-processing","image-processing/episodes/02-image-basics.md",415,"md-image","fig/three-colours.png","alt",FALSE
+"image-processing","image-processing/episodes/02-image-basics.md",448,"md-image","fig/grayscale.png","alt",FALSE
+"image-processing","image-processing/episodes/02-image-basics.md",508,"md-image","fig/checkerboard.png","alt",FALSE
+"image-processing","image-processing/episodes/02-image-basics.md",547,"md-image","fig/checkerboard-red-channel.png","alt",FALSE
+"image-processing","image-processing/episodes/02-image-basics.md",555,"md-image","fig/checkerboard-green-channel.png","alt",FALSE
+"image-processing","image-processing/episodes/02-image-basics.md",563,"md-image","fig/checkerboard-blue-channel.png","alt",FALSE
+"image-processing","image-processing/episodes/02-image-basics.md",645,"md-image","fig/colour-table.png","alt",FALSE
+"image-processing","image-processing/episodes/02-image-basics.md",977,"md-image","fig/quality-original.jpg","alt",FALSE
+"image-processing","image-processing/episodes/02-image-basics.md",982,"md-image","fig/quality-tif.jpg","alt",FALSE
+"image-processing","image-processing/episodes/02-image-basics.md",988,"md-image","fig/quality-jpg.jpg","alt",FALSE
+"image-processing","image-processing/episodes/02-image-basics.md",998,"md-image","fig/quality-histogram.jpg","alt",FALSE
+"image-processing","image-processing/episodes/03-skimage-images.md",243,"md-image","fig/maize-root-cluster.jpg","alt",FALSE
+"image-processing","image-processing/episodes/03-skimage-images.md",296,"md-image","fig/maize-root-cluster-threshold.jpg","alt",FALSE
+"image-processing","image-processing/episodes/03-skimage-images.md",382,"md-image","fig/sudoku.png","alt",FALSE
+"image-processing","image-processing/episodes/03-skimage-images.md",391,"md-image","fig/sudoku-gray.png","alt",FALSE
+"image-processing","image-processing/episodes/03-skimage-images.md",468,"md-image","fig/board.jpg","alt",FALSE
+"image-processing","image-processing/episodes/03-skimage-images.md",479,"md-image","fig/board-coordinates.jpg","alt",FALSE
+"image-processing","image-processing/episodes/03-skimage-images.md",540,"md-image","fig/board-final.jpg","alt",FALSE
+"image-processing","image-processing/episodes/04-drawing.md",59,"md-image","fig/maize-seedlings.jpg","alt",FALSE
+"image-processing","image-processing/episodes/04-drawing.md",124,"md-image","fig/maize-seedlings-mask.png","alt",FALSE
+"image-processing","image-processing/episodes/04-drawing.md",207,"md-image","fig/drawing-practice.jpg","alt",FALSE
+"image-processing","image-processing/episodes/04-drawing.md",382,"md-image","fig/maize-seedlings-masked.jpg","alt",FALSE
+"image-processing","image-processing/episodes/04-drawing.md",396,"md-image","fig/remote-control.jpg","alt",FALSE
+"image-processing","image-processing/episodes/04-drawing.md",400,"md-image","fig/remote-control-masked.jpg","alt",FALSE
+"image-processing","image-processing/episodes/04-drawing.md",449,"md-image","fig/wellplate-01.jpg","alt",FALSE
+"image-processing","image-processing/episodes/04-drawing.md",463,"md-image","fig/wellplate-01-masked.jpg","alt",FALSE
+"image-processing","image-processing/episodes/05-creating-histograms.md",55,"md-image","fig/plant-seedling.jpg","alt",FALSE
+"image-processing","image-processing/episodes/05-creating-histograms.md",71,"md-image","fig/plant-seedling-grayscale.png","alt",FALSE
+"image-processing","image-processing/episodes/05-creating-histograms.md",154,"md-image","fig/plant-seedling-grayscale-histogram.png","alt",FALSE
+"image-processing","image-processing/episodes/05-creating-histograms.md",236,"md-image","fig/plant-seedling-grayscale-histogram-mask.png","alt",FALSE
+"image-processing","image-processing/episodes/05-creating-histograms.md",361,"md-image","fig/plant-seedling-colour-histogram.png","alt",FALSE
+"image-processing","image-processing/episodes/05-creating-histograms.md",382,"md-image","fig/wellplate-02.jpg","alt",FALSE
+"image-processing","image-processing/episodes/05-creating-histograms.md",396,"md-image","fig/wellplate-02-masked.jpg","alt",FALSE
+"image-processing","image-processing/episodes/05-creating-histograms.md",400,"md-image","fig/wellplate-02-histogram.png","alt",FALSE
+"image-processing","image-processing/episodes/06-blurring.md",97,"md-image","fig/cat.jpg","alt",FALSE
+"image-processing","image-processing/episodes/06-blurring.md",104,"md-image","fig/cat-eye-pixels.jpg","alt",FALSE
+"image-processing","image-processing/episodes/06-blurring.md",124,"md-image","fig/Normal_Distribution_PDF.svg","alt",FALSE
+"image-processing","image-processing/episodes/06-blurring.md",132,"md-image","fig/Gaussian_2D.png","alt",FALSE
+"image-processing","image-processing/episodes/06-blurring.md",145,"md-image","fig/gaussian-kernel.png","alt",FALSE
+"image-processing","image-processing/episodes/06-blurring.md",163,"md-image","fig/cat-corner-blue.png","alt",FALSE
+"image-processing","image-processing/episodes/06-blurring.md",171,"md-image","fig/combination.png","alt",FALSE
+"image-processing","image-processing/episodes/06-blurring.md",252,"md-image","fig/blur-demo.gif","alt",FALSE
+"image-processing","image-processing/episodes/06-blurring.md",279,"md-image","fig/gaussian-original.png","alt",FALSE
+"image-processing","image-processing/episodes/06-blurring.md",329,"md-image","fig/gaussian-blurred.png","alt",FALSE
+"image-processing","image-processing/episodes/06-blurring.md",341,"md-image","fig/petri-dish.png","alt",FALSE
+"image-processing","image-processing/episodes/06-blurring.md",365,"md-image","fig/petri-selected-pixels-marker.png","alt",FALSE
+"image-processing","image-processing/episodes/06-blurring.md",387,"md-image","fig/petri-original-intensities-plot.png","alt",FALSE
+"image-processing","image-processing/episodes/06-blurring.md",410,"md-image","fig/petri-blurred-intensities-plot.png","alt",FALSE
+"image-processing","image-processing/episodes/06-blurring.md",432,"md-image","fig/3D_petri_before_blurring.png","alt",FALSE
+"image-processing","image-processing/episodes/06-blurring.md",440,"md-image","fig/3D_petri_after_blurring.png","alt",FALSE
+"image-processing","image-processing/episodes/06-blurring.md",507,"md-image","fig/rectangle-gaussian-blurred.png","alt",FALSE
+"image-processing","image-processing/episodes/07-thresholding.md",73,"md-image","fig/shapes-01.jpg","alt",FALSE
+"image-processing","image-processing/episodes/07-thresholding.md",100,"md-image","fig/shapes-01-grayscale.png","alt",FALSE
+"image-processing","image-processing/episodes/07-thresholding.md",130,"md-image","fig/shapes-01-histogram.png","alt",FALSE
+"image-processing","image-processing/episodes/07-thresholding.md",163,"md-image","fig/shapes-01-mask.png","alt",FALSE
+"image-processing","image-processing/episodes/07-thresholding.md",210,"md-image","fig/shapes-01-selected.png","alt",FALSE
+"image-processing","image-processing/episodes/07-thresholding.md",219,"md-image","fig/shapes-02.jpg","alt",FALSE
+"image-processing","image-processing/episodes/07-thresholding.md",245,"md-image","fig/shapes-02-histogram.png","alt",FALSE
+"image-processing","image-processing/episodes/07-thresholding.md",278,"md-image","fig/shapes-02-mask.png","alt",FALSE
+"image-processing","image-processing/episodes/07-thresholding.md",291,"md-image","fig/shapes-02-selected.png","alt",FALSE
+"image-processing","image-processing/episodes/07-thresholding.md",329,"md-image","fig/maize-root-cluster.jpg","alt",FALSE
+"image-processing","image-processing/episodes/07-thresholding.md",351,"md-image","fig/maize-root-cluster-histogram.png","alt",FALSE
+"image-processing","image-processing/episodes/07-thresholding.md",405,"md-image","fig/maize-root-cluster-mask.png","alt",FALSE
+"image-processing","image-processing/episodes/07-thresholding.md",418,"md-image","fig/maize-root-cluster-selected.png","alt",FALSE
+"image-processing","image-processing/episodes/07-thresholding.md",431,"md-image","fig/four-maize-roots.jpg","alt",FALSE
+"image-processing","image-processing/episodes/07-thresholding.md",558,"md-image","fig/four-maize-roots-binary.jpg","alt",FALSE
+"image-processing","image-processing/episodes/07-thresholding.md",701,"md-image","fig/four-maize-roots-binary-improved.jpg","alt",FALSE
+"image-processing","image-processing/episodes/07-thresholding.md",713,"md-image","fig/colonies-01.jpg","alt",FALSE
+"image-processing","image-processing/episodes/07-thresholding.md",743,"md-image","fig/colonies-01-histogram.png","alt",FALSE
+"image-processing","image-processing/episodes/07-thresholding.md",762,"md-image","fig/colonies-01-mask.png","alt",FALSE
+"image-processing","image-processing/episodes/08-connected-components.md",30,"md-image","fig/shapes-01.jpg","alt",FALSE
+"image-processing","image-processing/episodes/08-connected-components.md",34,"md-image","fig/shapes-01-mask.png","alt",FALSE
+"image-processing","image-processing/episodes/08-connected-components.md",401,"md-image","fig/shapes-01-labeled.png","alt",FALSE
+"image-processing","image-processing/episodes/08-connected-components.md",471,"md-image","fig/shapes-01-cca-detail.png","alt",FALSE
+"image-processing","image-processing/episodes/08-connected-components.md",547,"md-image","fig/shapes-01-areas-histogram.png","alt",FALSE
+"image-processing","image-processing/episodes/08-connected-components.md",751,"md-image","fig/shapes-01-filtered-objects.png","alt",FALSE
+"image-processing","image-processing/episodes/08-connected-components.md",802,"md-image","fig/shapes-01-objects-coloured-by-area.png","alt",FALSE
+"image-processing","image-processing/episodes/09-challenges.md",29,"md-image","fig/colonies-01.jpg","alt",FALSE
+"image-processing","image-processing/episodes/09-challenges.md",31,"md-image","fig/colonies-02.jpg","alt",FALSE
+"image-processing","image-processing/episodes/09-challenges.md",33,"md-image","fig/colonies-03.jpg","alt",FALSE
+"image-processing","image-processing/episodes/09-challenges.md",49,"md-image","fig/colonies-01-summary.png","alt",FALSE
+"image-processing","image-processing/episodes/09-challenges.md",81,"md-image","fig/colonies-01.jpg","alt",FALSE
+"image-processing","image-processing/episodes/09-challenges.md",95,"md-image","fig/colonies-01-gray.png","alt",FALSE
+"image-processing","image-processing/episodes/09-challenges.md",110,"md-image","fig/colonies-01-histogram.png","alt",FALSE
+"image-processing","image-processing/episodes/09-challenges.md",124,"md-image","fig/colonies-01-mask.png","alt",FALSE
+"image-processing","image-processing/episodes/09-challenges.md",150,"md-image","fig/colonies-01-summary.png","alt",FALSE
+"image-processing","image-processing/episodes/09-challenges.md",179,"md-image","fig/colonies-01-summary.png","alt",FALSE
+"image-processing","image-processing/episodes/09-challenges.md",180,"md-image","fig/colonies-02-summary.png","alt",FALSE
+"image-processing","image-processing/episodes/09-challenges.md",181,"md-image","fig/colonies-03-summary.png","alt",FALSE
+"image-processing","image-processing/learners/edge-detection.md",54,"md-image","fig/black-and-white.jpg","alt",FALSE
+"image-processing","image-processing/learners/edge-detection.md",65,"md-image","fig/black-and-white-edge-pixels.jpg","alt",FALSE
+"image-processing","image-processing/learners/edge-detection.md",74,"md-image","fig/black-and-white-gradient.png","alt",FALSE
+"image-processing","image-processing/learners/edge-detection.md",131,"md-image","fig/shapes-01.jpg","alt",FALSE
+"image-processing","image-processing/learners/edge-detection.md",207,"md-image","fig/shapes-01-canny-edges.png","alt",FALSE
+"image-processing","image-processing/learners/edge-detection.md",215,"md-image","fig/shapes-01-canny-edge-output.png","alt",FALSE
+"image-processing","image-processing/learners/edge-detection.md",228,"md-image","fig/beads.jpg","alt",FALSE
+"image-processing","image-processing/learners/edge-detection.md",242,"md-image","fig/beads-canny-ui.png","alt",FALSE
+"image-processing","image-processing/learners/edge-detection.md",359,"md-image","fig/beads-out.png","alt",FALSE
+"image-processing","image-processing/learners/edge-detection.md",370,"md-image","fig/shapes-01-canny-track-edges.png","alt",FALSE
+"image-processing","image-processing/learners/edge-detection.md",397,"md-image","fig/maize-roots-grayscale.jpg","alt",FALSE
+"image-processing","image-processing/learners/edge-detection.md",457,"md-image","fig/maize-roots-threshold.png","alt",FALSE
+"image-processing","image-processing/learners/setup.md",115,"md-image","fig/jupyter_overview.png","alt",FALSE
+"lc-git","lc-git/episodes/02-getting-started.md",194,"md-image","fig/git-branch.svg","alt",FALSE
+"lc-git","lc-git/episodes/02-getting-started.md",359,"md-image","fig/git-staging-area.svg","alt",FALSE
+"lc-git","lc-git/episodes/03-sharing.md",34,"md-image","fig/github-repo-new.png","alt",FALSE
+"lc-git","lc-git/episodes/03-sharing.md",42,"md-image","fig/github-repo-new-setup.png","alt",FALSE
+"lc-git","lc-git/episodes/03-sharing.md",64,"md-image","fig/github-repo-connect.png","alt",FALSE
+"lc-git","lc-git/episodes/03-sharing.md",86,"md-image","fig/github-instructions.png","alt",FALSE
+"lc-git","lc-git/episodes/03-sharing.md",369,"md-image","fig/github-one-commit.png","alt",FALSE
+"lc-git","lc-git/episodes/05-github-pages.md",51,"md-image","fig/github-repo-settings-pages.png","alt",FALSE
+"lc-git","lc-git/episodes/05-github-pages.md",64,"md-image","fig/github-repo-settings-pages-branch.png","alt",FALSE
+"lc-git","lc-git/episodes/05-github-pages.md",66,"md-image","fig/github-repo-settings-pages-save.png","alt",FALSE
+"lc-git","lc-git/episodes/05-github-pages.md",88,"md-image","fig/github-fork-button.png","alt",FALSE
+"lc-git","lc-git/episodes/05-github-pages.md",92,"md-image","fig/github-edit-pencil.png","alt",FALSE
+"lc-git","lc-git/episodes/05-github-pages.md",102,"md-image","fig/github-commit-pr.png","alt",FALSE
+"lc-git","lc-git/episodes/05-github-pages.md",146,"md-image","fig/git-branches.svg","alt",FALSE
+"lc-git","lc-git/episodes/05-github-pages.md",179,"md-image","fig/github-fork-clone.png","alt",FALSE
+"lc-git","lc-git/episodes/05-github-pages.md",248,"md-image","fig/github-pr-create.png","alt",FALSE
+"lc-git","lc-git/episodes/05-github-pages.md",272,"md-image","fig/github-create-new-file.png","alt",FALSE
+"lc-open-refine","lc-open-refine/episodes/02-importing-data.md",71,"md-image","fig/openrefine_ui.png","alt",FALSE
+"lc-open-refine","lc-open-refine/episodes/03-working-with-data.md",54,"md-image","fig/rows.png","alt",FALSE
+"lc-open-refine","lc-open-refine/episodes/03-working-with-data.md",55,"md-image","fig/records.png","alt",FALSE
+"lc-open-refine","lc-open-refine/episodes/06-working-with-columns.md",37,"md-image","fig/sort-menu-highlight.png","alt",FALSE
+"lc-open-refine","lc-open-refine/episodes/13-looking-up-data.md",71,"md-image","fig/openrefine_add_columns_by_url.png","alt",FALSE
+"lc-python-intro","lc-python-intro/episodes/data-visualisation.md",76,"md-image","fig/albany-plot-1.png","alt",FALSE
+"lc-python-intro","lc-python-intro/episodes/data-visualisation.md",85,"md-image","fig/albany-circ-3.png","alt",FALSE
+"lc-python-intro","lc-python-intro/episodes/data-visualisation.md",116,"md-image","fig/albany-circ-labeling-5.png","alt",FALSE
+"lc-python-intro","lc-python-intro/episodes/data-visualisation.md",129,"md-image","fig/albany-circ-area-7.png","alt",FALSE
+"lc-python-intro","lc-python-intro/episodes/data-visualisation.md",139,"md-image","fig/albany-circ-hist-9.png","alt",FALSE
+"lc-python-intro","lc-python-intro/episodes/data-visualisation.md",162,"md-image","fig/chinatown_circulation.png","alt",FALSE
+"lc-python-intro","lc-python-intro/episodes/data-visualisation.md",196,"md-image","fig/uptown_plot.png","alt",FALSE
+"lc-python-intro","lc-python-intro/episodes/data-visualisation.md",289,"md-image","fig/top_five_circ.png","alt",FALSE
+"lc-python-intro","lc-python-intro/episodes/for-loops.md",113,"md-image","fig/for_loop.png","alt",FALSE
+"lc-python-intro","lc-python-intro/episodes/getting-started.md",118,"md-image","../episodes/fig/0_jupyterlab_launcher.png","alt",FALSE
+"lc-python-intro","lc-python-intro/episodes/getting-started.md",184,"md-image","../episodes/fig/0_jupyter_markdown_dd.png","alt",FALSE
+"lc-python-intro","lc-python-intro/episodes/tidy.md",65,"md-image","fig/tidy-1.png","alt",FALSE
+"lc-shell","lc-shell/episodes/04-loops.md",131,"md-image","fig/shell_script_for_loop_flow_chart.svg","alt",FALSE
+"lc-shell","lc-shell/episodes/05-counting-mining.md",208,"md-image","fig/redirects-and-pipes.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/01-format-data.md",100,"md-image","fig/spreadsheet-setup.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/01-format-data.md",126,"md-image","fig/multiple-info.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/01-format-data.md",142,"md-image","fig/single-info.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/02-common-mistakes.md",68,"md-image","fig/2_Multiple_Tables.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/02-common-mistakes.md",137,"md-image","fig/formatting.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/02-common-mistakes.md",141,"md-image","fig/good_formatting.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/03-dates-as-data.md",55,"md-image","fig/5_excel_dates_1.jpg","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/03-dates-as-data.md",157,"md-image","fig/3_Dates_as_Columns.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/03-dates-as-data.md",211,"md-image","fig/6_excel_dates_2.jpg","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/03-dates-as-data.md",229,"md-image","fig/7_excel_dates_3.jpg","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/04-quality-control.md",70,"md-image","fig/data_validation.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/04-quality-control.md",76,"md-image","fig/data_validation_window.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/04-quality-control.md",91,"md-image","fig/4_data-validation-whole-num.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/04-quality-control.md",95,"md-image","fig/4_data-validation-alert.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/04-quality-control.md",101,"md-image","fig/4_data-validation-error-msg.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/04-quality-control.md",105,"md-image","fig/4_data-validation-input-message.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/04-quality-control.md",113,"md-image","fig/4_data-validation-auto-complete.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/04-quality-control.md",154,"md-image","fig/4-sort-len_hours.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/04-quality-control.md",157,"md-image","fig/4-sorted-len_hours.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/04-quality-control.md",188,"md-image","fig/4_conditional-formatting.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/05-exporting-data.md",78,"md-image","fig/excel-to-csv.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/05-exporting-data.md",94,"md-image","fig/NewLine_example.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/05-exporting-data.md",108,"md-image","fig/NewLine_example2.png","alt",FALSE
+"lc-spreadsheets","lc-spreadsheets/episodes/06-data-formats-caveats.md",51,"md-image","fig/csv-mistake.png","alt",FALSE
+"lc-sql","lc-sql/episodes/06-joins-aliases.md",39,"md-image","fig/left-join-articles-journals_40.png","alt",FALSE
+"lc-sql","lc-sql/episodes/06-joins-aliases.md",51,"md-image","fig/articles-erd-v02.png","alt",FALSE
+"lc-sql","lc-sql/episodes/08-database-design.md",31,"md-image","fig/doaj-spreadsheet.png","alt",FALSE
+"lc-sql","lc-sql/episodes/08-database-design.md",55,"md-image","fig/field-record-value.png","alt",FALSE
+"lc-sql","lc-sql/episodes/08-database-design.md",69,"md-image","https://user-images.githubusercontent.com/30397506/115917162-6cc7ef00-a43b-11eb-97af-16fe50caa6a6.png","alt",FALSE
+"lc-sql","lc-sql/episodes/08-database-design.md",98,"md-image","fig/normalisation.png","alt",FALSE
+"make-novice","make-novice/episodes/02-makefiles.md",399,"md-image","fig/02-makefile.png","alt",FALSE
+"make-novice","make-novice/episodes/02-makefiles.md",431,"md-image","fig/02-makefile-challenge.png","alt",FALSE
+"make-novice","make-novice/episodes/04-dependencies.md",113,"md-image","fig/04-dependencies.png","alt",FALSE
+"make-novice","make-novice/episodes/07-functions.md",235,"md-image","fig/07-functions.png","alt",FALSE
+"make-novice","make-novice/episodes/09-conclusion.md",71,"md-image","fig/09-conclusion-challenge-1.png","alt",FALSE
+"matlab-novice-inflammation","matlab-novice-inflammation/episodes/02-arrays.md",49,"md-image","fig/matrix-single-element.svg","alt",FALSE
+"matlab-novice-inflammation","matlab-novice-inflammation/episodes/02-arrays.md",69,"md-image","fig/matrix-row.svg","alt",FALSE
+"matlab-novice-inflammation","matlab-novice-inflammation/episodes/02-arrays.md",91,"md-image","fig/matrix-multi-rows.svg","alt",FALSE
+"matlab-novice-inflammation","matlab-novice-inflammation/episodes/02-arrays.md",108,"md-image","fig/matrix-multi-cols.svg","alt",FALSE
+"matlab-novice-inflammation","matlab-novice-inflammation/episodes/02-arrays.md",129,"md-image","fig/matrix-submatrix.svg","alt",FALSE
+"matlab-novice-inflammation","matlab-novice-inflammation/episodes/02-arrays.md",150,"md-image","fig/matrix-strided-rows.svg","alt",FALSE
+"matlab-novice-inflammation","matlab-novice-inflammation/episodes/02-arrays.md",166,"md-image","fig/matrix-strided-rowncols.svg","alt",FALSE
+"matlab-novice-inflammation","matlab-novice-inflammation/episodes/03-plotting.md",141,"md-image","fig/matlab-operations-across-axes.svg","alt",FALSE
+"matlab-novice-inflammation","matlab-novice-inflammation/episodes/03-plotting.md",268,"md-image","fig/inflammation-heatmap.png","alt",FALSE
+"matlab-novice-inflammation","matlab-novice-inflammation/episodes/03-plotting.md",290,"md-image","fig/average-inflammation.png","alt",FALSE
+"matlab-novice-inflammation","matlab-novice-inflammation/episodes/03-plotting.md",307,"md-image","fig/max-inflammation.png","alt",FALSE
+"matlab-novice-inflammation","matlab-novice-inflammation/episodes/03-plotting.md",316,"md-image","fig/min-inflammation.png","alt",FALSE
+"matlab-novice-inflammation","matlab-novice-inflammation/episodes/03-plotting.md",392,"md-image","fig/max-min-subplot.png","alt",FALSE
+"matlab-novice-inflammation","matlab-novice-inflammation/episodes/05-loops.md",229,"md-image","fig/debugger.gif","alt",FALSE
+"matlab-novice-inflammation","matlab-novice-inflammation/episodes/05-loops.md",634,"md-image","fig/inflammation-01.png","none",TRUE
+"matlab-novice-inflammation","matlab-novice-inflammation/episodes/05-loops.md",636,"md-image","fig/inflammation-02.png","none",TRUE
+"matlab-novice-inflammation","matlab-novice-inflammation/episodes/05-loops.md",638,"md-image","fig/inflammation-03.png","none",TRUE
+"matlab-novice-inflammation","matlab-novice-inflammation/episodes/07-func.md",56,"md-image","fig/function_definition.png","alt",FALSE
+"matlab-novice-inflammation","matlab-novice-inflammation/episodes/08-defensive.md",234,"md-image","fig/matlab-overlapping-ranges.png","alt",FALSE
+"OpenRefine-ecology-lesson","OpenRefine-ecology-lesson/episodes/02-importing-data.md",57,"md-image","fig/or372-create-project.png","alt",FALSE
+"OpenRefine-ecology-lesson","OpenRefine-ecology-lesson/episodes/02-importing-data.md",65,"md-image","fig/or372-data-import.png","alt",FALSE
+"OpenRefine-ecology-lesson","OpenRefine-ecology-lesson/episodes/03-exploring-data.md",38,"md-image","fig/or362-facet-menu.png","alt",FALSE
+"OpenRefine-ecology-lesson","OpenRefine-ecology-lesson/episodes/03-exploring-data.md",43,"md-image","fig/or362-faceted-scientificname.png","alt",FALSE
+"OpenRefine-ecology-lesson","OpenRefine-ecology-lesson/episodes/03-exploring-data.md",140,"md-image","fig/or372-scatterplots.png","alt",FALSE
+"OpenRefine-ecology-lesson","OpenRefine-ecology-lesson/episodes/04-transforming-data.md",68,"md-image","fig/or362-undoredo.png","alt",FALSE
+"OpenRefine-ecology-lesson","OpenRefine-ecology-lesson/episodes/04-transforming-data.md",149,"md-image","fig/or372-joincols.png","alt",FALSE
+"OpenRefine-ecology-lesson","OpenRefine-ecology-lesson/episodes/04-transforming-data.md",177,"md-image","fig/or362-clustering.png","alt",FALSE
+"OpenRefine-ecology-lesson","OpenRefine-ecology-lesson/episodes/04-transforming-data.md",186,"md-image","fig/or362-clustering-result.png","alt",FALSE
+"OpenRefine-ecology-lesson","OpenRefine-ecology-lesson/episodes/05-filter-exclude-sort.md",52,"md-image","fig/or362-filter-scientificname.png","alt",FALSE
+"OpenRefine-ecology-lesson","OpenRefine-ecology-lesson/episodes/06-reconciliation.md",39,"md-image","fig/or362-reconcile-add.png","alt",FALSE
+"OpenRefine-ecology-lesson","OpenRefine-ecology-lesson/episodes/06-reconciliation.md",55,"md-image","fig/or362-reconcile.png","alt",FALSE
+"OpenRefine-ecology-lesson","OpenRefine-ecology-lesson/episodes/06-reconciliation.md",74,"md-image","fig/or372-reconcile-results.png","alt",FALSE
+"OpenRefine-ecology-lesson","OpenRefine-ecology-lesson/episodes/06-reconciliation.md",85,"md-image","fig/or362-reconcile-id.png","alt",FALSE
+"OpenRefine-ecology-lesson","OpenRefine-ecology-lesson/episodes/07-looking-up-data.md",52,"md-image","fig/or362-data-from-url.png","alt",FALSE
+"OpenRefine-ecology-lesson","OpenRefine-ecology-lesson/episodes/07-looking-up-data.md",60,"md-image","fig/or372-fetch-gbifjson.png","alt",FALSE
+"OpenRefine-ecology-lesson","OpenRefine-ecology-lesson/episodes/07-looking-up-data.md",72,"md-image","fig/or362-parse-json.png","alt",FALSE
+"openrefine-socialsci","openrefine-socialsci/episodes/02-working-with-openrefine.md",102,"md-image","fig/OR_01_parse_options.png","alt",FALSE
+"openrefine-socialsci","openrefine-socialsci/episodes/02-working-with-openrefine.md",328,"md-image","fig/OR_02_Transform.png","alt",FALSE
+"openrefine-socialsci","openrefine-socialsci/episodes/05-scripts.md",40,"md-image","fig/history.png","alt",FALSE
+"organization-genomics","organization-genomics/episodes/01-tidiness.md",112,"md-image","fig/01_tidiness_datasheet_example_messy.png","alt",FALSE
+"organization-genomics","organization-genomics/episodes/03-ncbi-sra.md",66,"md-image","fig/03_ncbi_send_results.png","alt",FALSE
+"organization-genomics","organization-genomics/episodes/03-ncbi-sra.md",76,"md-image","fig/03_ncbi_new_tables2.png","alt",FALSE
+"organization-genomics","organization-genomics/episodes/03-ncbi-sra.md",79,"md-image","fig/03_ncbi_new_run_browser.png","alt",FALSE
+"organization-genomics","organization-genomics/episodes/03-ncbi-sra.md",82,"md-image","fig/03_ncbi_new_metadata.png","alt",FALSE
+"organization-genomics","organization-genomics/episodes/03-ncbi-sra.md",34,"md-image","fig/03_paper_header.png","alt",FALSE
+"organization-genomics","organization-genomics/instructors/old-ncbi.md",13,"md-image","fig/03_ncbi_old_run_selector.png","alt",FALSE
+"organization-genomics","organization-genomics/instructors/old-ncbi.md",16,"md-image","fig/03_ncbi_run_browser.png","alt",FALSE
+"organization-genomics","organization-genomics/instructors/old-ncbi.md",19,"md-image","fig/03_ncbi_old_runtable_button.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/02-starting-with-data.md",582,"md-image","fig/countPerSpecies.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/02-starting-with-data.md",642,"md-image","fig/stackedBar1.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/02-starting-with-data.md",715,"md-image","fig/stackedBar.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/03-index-slice-subset.md",120,"md-image","fig/slicing-indexing.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/03-index-slice-subset.md",121,"md-image","fig/slicing-slicing.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/05-merging-data.md",184,"md-image","fig/inner-join.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/05-merging-data.md",243,"md-image","fig/left-join.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/07-visualization-ggplot-python.md",102,"md-image","fig/06_first_plot.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/07-visualization-ggplot-python.md",122,"md-image","fig/06_challenge_bar.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/07-visualization-ggplot-python.md",159,"md-image","fig/06_alpha_plot.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/07-visualization-ggplot-python.md",170,"md-image","fig/06_blue_plot.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/07-visualization-ggplot-python.md",184,"md-image","fig/06_color_plot.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/07-visualization-ggplot-python.md",200,"md-image","fig/06_color_label_plot.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/07-visualization-ggplot-python.md",215,"md-image","fig/06_log_plot.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/07-visualization-ggplot-python.md",231,"md-image","fig/06_white_plot.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/07-visualization-ggplot-python.md",255,"md-image","fig/06_challenge_color_bar.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/07-visualization-ggplot-python.md",276,"md-image","fig/06_boxplot.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/07-visualization-ggplot-python.md",289,"md-image","fig/06_point_boxplot.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/07-visualization-ggplot-python.md",325,"md-image","fig/06_challenge_boxplot.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/07-visualization-ggplot-python.md",370,"md-image","fig/06_time_plot.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/07-visualization-ggplot-python.md",400,"md-image","fig/06_facet_plot.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/07-visualization-ggplot-python.md",414,"md-image","fig/06_facet_all_plot.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/07-visualization-ggplot-python.md",434,"md-image","fig/06_select_plot.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/07-visualization-ggplot-python.md",505,"md-image","fig/06_overlap_bars.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/07-visualization-ggplot-python.md",519,"md-image","fig/06_good_bars.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/07-visualization-ggplot-python.md",534,"md-image","fig/06_theme_plot.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/08-putting-it-all-together.md",91,"md-image","fig/08_scatter_surveys.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/08-putting-it-all-together.md",135,"md-image","fig/08-normal-distribution.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/08-putting-it-all-together.md",173,"md-image","fig/08-dualdistribution.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/08-putting-it-all-together.md",204,"md-image","fig/08_scatter_surveys_extended.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/episodes/08-putting-it-all-together.md",225,"md-image","fig/08_scatter_surveys_plotnine.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/instructors/instructor-notes.md",128,"md-image","fig/01_chall_bar_meanweight.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/instructors/instructor-notes.md",136,"md-image","fig/01_chall_bar_totalsex.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/instructors/instructor-notes.md",227,"md-image","fig/02_chall_stack_levelissue.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/instructors/instructor-notes.md",235,"md-image","fig/02_chall_stack_level.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/instructors/instructor-notes.md",272,"md-image","fig/04_chall_weight_year.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/instructors/instructor-notes.md",297,"md-image","fig/04_chall_ntaxa_per_site.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/instructors/instructor-notes.md",308,"md-image","fig/04_chall_taxa_per_site.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/instructors/instructor-notes.md",327,"md-image","fig/04_chall_ntaxa_per_site_sex.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/instructors/instructor-notes.md",340,"md-image","fig/04_chall_sex_taxa_site_intro.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/instructors/instructor-notes.md",356,"md-image","fig/04_chall_sex_taxa_site.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/instructors/instructor-notes.md",388,"md-image","fig/04_chall_diversity_index.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/instructors/jupyter_notebooks.md",5,"md-image","fig/00_0_jupyter_notebook_example.jpg","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/instructors/jupyter_notebooks.md",21,"md-image","fig/00_1_jupyter_file_browser.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/instructors/jupyter_notebooks.md",27,"md-image","fig/00_2_jupyter_new_notebook.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/instructors/jupyter_notebooks.md",33,"md-image","fig/00_3_jupyter_blank_notebook.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/instructors/jupyter_notebooks.md",40,"md-image","fig/00_4_jupyter_tour_help.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/instructors/jupyter_notebooks.md",50,"md-image","fig/00_5_jupyter_code_before.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/instructors/jupyter_notebooks.md",56,"md-image","fig/00_6_jupyter_code_after.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/instructors/jupyter_notebooks.md",64,"md-image","fig/00_7_jupyter_markdown_before.png","alt",FALSE
+"python-ecology-lesson-es","python-ecology-lesson-es/instructors/jupyter_notebooks.md",69,"md-image","fig/00_8_jupyter_markdown_after.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/02-starting-with-data.md",733,"md-image","fig/countPerSpecies.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/02-starting-with-data.md",755,"md-image","fig/01_chall_bar_meanweight.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/02-starting-with-data.md",759,"md-image","fig/01_chall_bar_totalsex.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/02-starting-with-data.md",802,"md-image","fig/stackedBar1.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/02-starting-with-data.md",871,"md-image","fig/stackedBar.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/03-index-slice-subset.md",158,"md-image","fig/slicing-indexing.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/03-index-slice-subset.md",159,"md-image","fig/slicing-slicing.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/03-index-slice-subset.md",756,"md-image","fig/02_chall_stack_levelissue.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/03-index-slice-subset.md",765,"md-image","fig/02_chall_stack_level.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/05-merging-data.md",177,"md-image","fig/04_chall_weight_year.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/05-merging-data.md",283,"md-image","fig/inner-join.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/05-merging-data.md",374,"md-image","fig/left-join.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/05-merging-data.md",476,"md-image","fig/04_chall_ntaxa_per_site.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/05-merging-data.md",486,"md-image","fig/04_chall_taxa_per_site.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/05-merging-data.md",500,"md-image","fig/04_chall_ntaxa_per_site_sex.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/05-merging-data.md",519,"md-image","fig/04_chall_sex_taxa_site_intro.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/05-merging-data.md",538,"md-image","fig/04_chall_sex_taxa_site.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/05-merging-data.md",587,"md-image","fig/04_chall_diversity_index.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/07-visualization-ggplot-python.md",150,"md-image","fig/06_first_plot.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/07-visualization-ggplot-python.md",171,"md-image","fig/06_challenge_bar.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/07-visualization-ggplot-python.md",210,"md-image","fig/06_alpha_plot.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/07-visualization-ggplot-python.md",221,"md-image","fig/06_blue_plot.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/07-visualization-ggplot-python.md",235,"md-image","fig/06_color_plot.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/07-visualization-ggplot-python.md",251,"md-image","fig/06_color_label_plot.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/07-visualization-ggplot-python.md",265,"md-image","fig/06_log_plot.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/07-visualization-ggplot-python.md",282,"md-image","fig/06_white_plot.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/07-visualization-ggplot-python.md",306,"md-image","fig/06_challenge_color_bar.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/07-visualization-ggplot-python.md",328,"md-image","fig/06_boxplot.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/07-visualization-ggplot-python.md",342,"md-image","fig/06_point_boxplot.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/07-visualization-ggplot-python.md",380,"md-image","fig/06_challenge_boxplot.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/07-visualization-ggplot-python.md",431,"md-image","fig/06_time_plot.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/07-visualization-ggplot-python.md",465,"md-image","fig/06_facet_plot.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/07-visualization-ggplot-python.md",479,"md-image","fig/06_facet_all_plot.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/07-visualization-ggplot-python.md",500,"md-image","fig/06_select_plot.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/07-visualization-ggplot-python.md",570,"md-image","fig/06_overlap_bars.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/07-visualization-ggplot-python.md",586,"md-image","fig/06_good_bars.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/07-visualization-ggplot-python.md",602,"md-image","fig/06_theme_plot.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/08-putting-it-all-together.md",116,"md-image","fig/08_scatter_surveys.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/08-putting-it-all-together.md",169,"md-image","fig/08-normal-distribution.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/08-putting-it-all-together.md",216,"md-image","fig/08-dualdistribution.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/08-putting-it-all-together.md",248,"md-image","fig/08_scatter_surveys_extended.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/08-putting-it-all-together.md",269,"md-image","fig/08_scatter_surveys_plotnine.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/episodes/08-putting-it-all-together.md",311,"md-image","fig/08_flood_event.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/learners/jupyter_notebooks.md",5,"md-image","fig/00_0_jupyter_notebook_example.jpg","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/learners/jupyter_notebooks.md",20,"md-image","fig/00_1_jupyter_file_browser.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/learners/jupyter_notebooks.md",26,"md-image","fig/00_2_jupyter_new_notebook.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/learners/jupyter_notebooks.md",32,"md-image","fig/00_3_jupyter_blank_notebook.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/learners/jupyter_notebooks.md",39,"md-image","fig/00_4_jupyter_tour_help.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/learners/jupyter_notebooks.md",49,"md-image","fig/00_5_jupyter_code_before.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/learners/jupyter_notebooks.md",55,"md-image","fig/00_6_jupyter_code_after.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/learners/jupyter_notebooks.md",63,"md-image","fig/00_7_jupyter_markdown_before.png","alt",FALSE
+"python-ecology-lesson","python-ecology-lesson/learners/jupyter_notebooks.md",68,"md-image","fig/00_8_jupyter_markdown_after.png","alt",FALSE
+"python-novice-gapminder","python-novice-gapminder/episodes/01-run-quit.md",118,"md-image","fig/0_anaconda_navigator_landing_page.png","alt",FALSE
+"python-novice-gapminder","python-novice-gapminder/episodes/01-run-quit.md",125,"md-image","fig/0_jupyterlab_landing_page.png","alt",FALSE
+"python-novice-gapminder","python-novice-gapminder/episodes/01-run-quit.md",169,"md-image","fig/0_jupyterlab_menu_bar.png","alt",FALSE
+"python-novice-gapminder","python-novice-gapminder/episodes/01-run-quit.md",179,"md-image","fig/0_jupyterlab_left_side_bar.png","alt",FALSE
+"python-novice-gapminder","python-novice-gapminder/episodes/01-run-quit.md",193,"md-image","fig/0_jupyterlab_main_work_area.png","alt",FALSE
+"python-novice-gapminder","python-novice-gapminder/episodes/01-run-quit.md",221,"md-image","fig/0_jupyterlab_notebook_screenshot.png","alt",FALSE
+"python-novice-gapminder","python-novice-gapminder/episodes/01-run-quit.md",242,"md-image","fig/0_multipanel_jupyterlab_screenshot.png","alt",FALSE
+"python-novice-gapminder","python-novice-gapminder/episodes/02-variables.md",137,"md-image","fig/2_indexing.svg","caption_only",TRUE
+"python-novice-gapminder","python-novice-gapminder/episodes/09-plotting.md",41,"md-image","fig/9_simple_position_time_plot.svg","alt",FALSE
+"python-novice-gapminder","python-novice-gapminder/episodes/09-plotting.md",91,"md-image","fig/9_gdp_australia.svg","alt",FALSE
+"python-novice-gapminder","python-novice-gapminder/episodes/09-plotting.md",103,"md-image","fig/9_gdp_australia_nz.svg","alt",FALSE
+"python-novice-gapminder","python-novice-gapminder/episodes/09-plotting.md",115,"md-image","fig/9_gdp_bar.svg","alt",FALSE
+"python-novice-gapminder","python-novice-gapminder/episodes/09-plotting.md",131,"md-image","fig/9_gdp_australia_formatted.svg","alt",FALSE
+"python-novice-gapminder","python-novice-gapminder/episodes/09-plotting.md",178,"md-image","fig/9_gdp_australia_nz_formatted.svg","alt",FALSE
+"python-novice-gapminder","python-novice-gapminder/episodes/09-plotting.md",187,"md-image","fig/9_gdp_correlation_plt.svg","alt",FALSE
+"python-novice-gapminder","python-novice-gapminder/episodes/09-plotting.md",193,"md-image","fig/9_gdp_correlation_data.svg","alt",FALSE
+"python-novice-gapminder","python-novice-gapminder/episodes/09-plotting.md",223,"md-image","fig/9_minima_maxima_solution.png","alt",FALSE
+"python-novice-gapminder","python-novice-gapminder/episodes/09-plotting.md",249,"md-image","fig/9_correlations_solution1.svg","alt",FALSE
+"python-novice-gapminder","python-novice-gapminder/episodes/09-plotting.md",271,"md-image","fig/9_correlations_solution2.png","alt",FALSE
+"python-novice-gapminder","python-novice-gapminder/episodes/09-plotting.md",306,"md-image","fig/9_more_correlations_solution.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/01-intro.md",271,"md-image","fig/python-sticky-note-variables-01.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/01-intro.md",292,"md-image","fig/python-sticky-note-variables-02.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/01-intro.md",310,"md-image","fig/python-sticky-note-variables-03.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/02-numpy.md",221,"md-image","fig/python-zero-index.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/02-numpy.md",411,"md-image","fig/python-operations-across-axes.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/03-matplotlib.md",51,"md-image","fig/inflammation-01-imshow.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/03-matplotlib.md",73,"md-image","fig/inflammation-01-average.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/03-matplotlib.md",86,"md-image","fig/inflammation-01-maximum.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/03-matplotlib.md",93,"md-image","fig/inflammation-01-minimum.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/03-matplotlib.md",141,"md-image","fig/inflammation-01-group-plot.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/03-matplotlib.md",282,"md-image","fig/inflammation-01-line-styles.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/04-lists.md",172,"md-image","fig/04_groceries_veg.png","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/04-lists.md",186,"md-image","fig/04_groceries_veg0.png","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/04-lists.md",209,"md-image","fig/04_groceries_veg00.png","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/04-lists.md",539,"md-image","fig/python_indexing_slicing.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/05-loop.md",26,"md-image","fig/03-loop_2_0.png","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/05-loop.md",145,"md-image","fig/05-loops_image_num.png","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/06-files.md",90,"md-image","fig/03-loop_49_1.png","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/06-files.md",96,"md-image","fig/03-loop_49_3.png","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/06-files.md",102,"md-image","fig/03-loop_49_5.png","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/06-files.md",114,"md-image","fig/inflammation-03-imshow.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/07-cond.md",61,"md-image","fig/python-flowchart-conditional.png","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/07-cond.md",278,"md-image","fig/python-else-if.png","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/07-cond.md",281,"md-image","fig/python-multi-if.png","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/08-func.md",65,"md-image","fig/python-function.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/episodes/10-defensive.md",267,"md-image","fig/python-overlapping-ranges.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/index.md",29,"md-image","episodes/fig/lesson-overview.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/learners/discuss.md",34,"md-image","fig/python-call-stack-01.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/learners/discuss.md",44,"md-image","fig/python-call-stack-02.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/learners/discuss.md",49,"md-image","fig/python-call-stack-03.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/learners/discuss.md",64,"md-image","fig/python-call-stack-04.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/learners/discuss.md",69,"md-image","fig/python-call-stack-05.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/learners/discuss.md",75,"md-image","fig/python-call-stack-06.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/learners/discuss.md",83,"md-image","fig/python-call-stack-07.svg","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/learners/discuss.md",197,"md-image","fig/grid-01.png","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/learners/discuss.md",223,"md-image","fig/color-cube.png","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/learners/discuss.md",298,"md-image","fig/grid-02.png","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/learners/discuss.md",310,"md-image","fig/ipythonblocks_show_color_example.png","none",TRUE
+"python-novice-inflammation","python-novice-inflammation/learners/discuss.md",326,"md-image","fig/grid-03.png","alt",FALSE
+"python-novice-inflammation","python-novice-inflammation/learners/setup.md",101,"md-image","fig/jupyter-notebook-launch-notebook2.png","alt",FALSE
+"python-socialsci","python-socialsci/episodes/01-introduction.md",64,"md-image","fig/Python_repl_3.png","alt",FALSE
+"python-socialsci","python-socialsci/episodes/01-introduction.md",102,"md-image","fig/Python_jupyter_6.png","alt",FALSE
+"python-socialsci","python-socialsci/episodes/01-introduction.md",107,"md-image","fig/Python_jupyter_7.png","alt",FALSE
+"python-socialsci","python-socialsci/episodes/01-introduction.md",124,"md-image","fig/Python_jupyter_8.png","alt",FALSE
+"python-socialsci","python-socialsci/episodes/02-basics.md",190,"md-image","fig/Python_function_parameters_9.png","alt",FALSE
+"python-socialsci","python-socialsci/episodes/04-reusable.md",51,"md-image","fig/functionAnatomy.png","alt",FALSE
+"python-socialsci","python-socialsci/episodes/11-joins.md",135,"md-image","fig/pandas_join_types.png","alt",FALSE
+"python-socialsci","python-socialsci/episodes/13-matplotlib.md",71,"md-image","fig/histogram1.png","alt",FALSE
+"python-socialsci","python-socialsci/episodes/13-matplotlib.md",89,"md-image","fig/histogram3.png","alt",FALSE
+"python-socialsci","python-socialsci/episodes/13-matplotlib.md",99,"md-image","fig/scatter1.png","alt",FALSE
+"python-socialsci","python-socialsci/episodes/13-matplotlib.md",137,"md-image","fig/scatter2.png","alt",FALSE
+"python-socialsci","python-socialsci/episodes/13-matplotlib.md",146,"md-image","fig/barplot1.png","alt",FALSE
+"python-socialsci","python-socialsci/episodes/13-matplotlib.md",166,"md-image","fig/boxplot1.png","alt",FALSE
+"python-socialsci","python-socialsci/episodes/13-matplotlib.md",178,"md-image","fig/boxplot2.png","alt",FALSE
+"python-socialsci","python-socialsci/episodes/13-matplotlib.md",186,"md-image","fig/lm1.png","alt",FALSE
+"python-socialsci","python-socialsci/episodes/13-matplotlib.md",297,"md-image","fig/boxplot1.png","alt",FALSE
+"python-socialsci","python-socialsci/episodes/13-matplotlib.md",310,"md-image","fig/boxplot3.png","alt",FALSE
+"python-socialsci","python-socialsci/learners/setup.md",67,"md-image","./fig/Python_install_1.png","alt",FALSE
+"python-socialsci","python-socialsci/learners/setup.md",78,"md-image","./fig/Python_install_2.png","alt",FALSE
+"shell-genomics","shell-genomics/episodes/02-the-filesystem.md",291,"md-image","fig/filesystem-challenge.svg","alt",FALSE
+"shell-genomics","shell-genomics/episodes/03-working-with-files.md",531,"md-image","fig/rwx_figure.svg","alt",FALSE
+"shell-genomics","shell-genomics/episodes/05-writing-scripts.md",60,"md-image","fig/nano201711.png","alt",FALSE
+"shell-novice-es","shell-novice-es/episodes/02-filedir.md",153,"md-image","fig/filesystem.svg","alt",FALSE
+"shell-novice-es","shell-novice-es/episodes/02-filedir.md",185,"md-image","fig/home-directories.svg","alt",FALSE
+"shell-novice-es","shell-novice-es/episodes/02-filedir.md",796,"md-image","fig/filesystem-challenge.svg","alt",FALSE
+"shell-novice-es","shell-novice-es/episodes/03-create.md",155,"md-image","fig/nano-screenshot.png","alt",FALSE
+"shell-novice-es","shell-novice-es/episodes/04-pipefilter.md",362,"md-image","fig/redirects-and-pipes.png","alt",FALSE
+"shell-novice-es","shell-novice-es/episodes/05-loop.md",272,"md-image","fig/shell_script_for_loop_flow_chart.svg","alt",FALSE
+"shell-novice-es","shell-novice-es/episodes/07-find.md",382,"md-image","fig/find-file-tree.svg","alt",FALSE
+"shell-novice-es","shell-novice-es/learners/discuss.md",334,"md-image","fig/x-for-directories.svg","alt",FALSE
+"shell-novice-es","shell-novice-es/learners/reference.md",25,"md-image","fig/standard-filesystem-hierarchy.svg","alt",FALSE
+"shell-novice","shell-novice/episodes/02-filedir.md",94,"md-image","fig/filesystem.svg","alt",FALSE
+"shell-novice","shell-novice/episodes/02-filedir.md",131,"md-image","fig/home-directories.svg","alt",FALSE
+"shell-novice","shell-novice/episodes/02-filedir.md",729,"md-image","fig/filesystem-challenge.svg","alt",FALSE
+"shell-novice","shell-novice/episodes/02-filedir.md",760,"md-image","fig/filesystem-challenge.svg","alt",FALSE
+"shell-novice","shell-novice/episodes/02-filedir.md",793,"md-image","fig/shell_command_syntax.svg","alt",FALSE
+"shell-novice","shell-novice/episodes/03-create.md",213,"md-image","fig/nano-screenshot.png","alt",FALSE
+"shell-novice","shell-novice/episodes/04-pipefilter.md",442,"md-image","fig/redirects-and-pipes.svg","alt",FALSE
+"shell-novice","shell-novice/episodes/05-loop.md",552,"md-image","fig/shell_script_for_loop_flow_chart.svg","alt",FALSE
+"shell-novice","shell-novice/learners/reference.md",22,"md-image","fig/standard-filesystem-hierarchy.svg","alt",FALSE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/01-format-data.md",71,"md-image","fig/spreadsheet-setup-updated.png","alt",FALSE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/01-format-data.md",107,"md-image","fig/multiple-info.png","alt",FALSE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/01-format-data.md",121,"md-image","fig/single-info.png","alt",FALSE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/02-common-mistakes.md",49,"md-image","fig/2_datasheet_example.jpg","alt",FALSE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/02-common-mistakes.md",187,"md-image","fig/formatting.png","alt",FALSE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/02-common-mistakes.md",191,"md-image","fig/good_formatting.png","alt",FALSE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/03-dates-as-data.md",65,"md-image","fig/solution_exercise_1_dates.png","none",TRUE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/03-dates-as-data.md",122,"md-image","fig/5_excel_dates_1.jpg","alt",FALSE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/03-dates-as-data.md",204,"md-image","fig/6_excel_dates_2.jpg","alt",FALSE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/03-dates-as-data.md",225,"md-image","fig/7_excel_dates_3.jpg","alt",FALSE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/04-quality-control.md",43,"md-image","fig/data_validation.png","alt",FALSE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/04-quality-control.md",49,"md-image","fig/data_validation_window.png","alt",FALSE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/04-quality-control.md",63,"md-image","fig/plot_validation.png","alt",FALSE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/04-quality-control.md",69,"md-image","fig/invalid_value.png","alt",FALSE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/04-quality-control.md",74,"md-image","fig/input_message.png","alt",FALSE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/04-quality-control.md",79,"md-image","fig/error_alert.png","alt",FALSE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/04-quality-control.md",87,"md-image","fig/drop_down_list2.png","alt",FALSE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/04-quality-control.md",129,"md-image","fig/sorting_button.png","caption_only",TRUE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/04-quality-control.md",133,"md-image","fig/sorting_example.png","caption_only",TRUE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/04-quality-control.md",138,"md-image","fig/sorting_solution_1.png","caption_only",TRUE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/04-quality-control.md",140,"md-image","fig/sorting_solution_2.png","caption_only",TRUE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/04-quality-control.md",168,"md-image","fig/conditional_formating.png","caption_only",TRUE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/05-exporting-data.md",66,"md-image","fig/excel-to-csv.png","alt",FALSE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/05-exporting-data.md",78,"md-image","https://cloud.githubusercontent.com/assets/13110354/24560663/db4a5786-1643-11e7-931a-ca2c72336878.png","alt",FALSE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/episodes/05-exporting-data.md",92,"md-image","https://cloud.githubusercontent.com/assets/13110354/24561066/a990327c-1645-11e7-90b5-35a44e90f8d9.png","alt",FALSE
+"spreadsheet-ecology-lesson","spreadsheet-ecology-lesson/learners/discuss.md",24,"md-image","fig/csv-mistake.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/01-format-data.md",104,"md-image","fig/multiple-info.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/01-format-data.md",117,"md-image","fig/single-info.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/02-common-mistakes.md",47,"md-image","fig/multiple-tables-example2.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/02-common-mistakes.md",83,"md-image","fig/zeros-example.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/02-common-mistakes.md",121,"md-image","fig/bad-formatting.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/02-common-mistakes.md",125,"md-image","fig/better-formatting.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/02-common-mistakes.md",144,"md-image","fig/comments-in-cells.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/03-dates-as-data.md",34,"md-image","fig/excel_dates_1.jpg","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/03-dates-as-data.md",105,"md-image","fig/solution_exercise_1_dates.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/04-quality-assurance.md",66,"md-image","fig/load-csv-excel.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/04-quality-assurance.md",78,"md-image","fig/load-csv-calc.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/04-quality-assurance.md",102,"md-image","fig/data-validation-tab-new.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/04-quality-assurance.md",109,"md-image","fig/data-validation-numbers-new.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/04-quality-assurance.md",119,"md-image","fig/data-validation-tab-LibreOffice-new.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/04-quality-assurance.md",126,"md-image","fig/data-validation-numbers-LibreOffice-new.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/04-quality-assurance.md",142,"md-image","fig/error-invalid-data-new.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/04-quality-assurance.md",146,"md-image","fig/error-invalid-data-LibreOffice-new.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/04-quality-assurance.md",161,"md-image","fig/error_alert-new.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/04-quality-assurance.md",170,"md-image","fig/error_alert_LibreOffice-new.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/04-quality-assurance.md",188,"md-image","fig/input_message-new.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/04-quality-assurance.md",197,"md-image","fig/input_message_LibreOffice-new.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/04-quality-assurance.md",235,"md-image","fig/select-range-of-values-new.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/04-quality-assurance.md",252,"md-image","fig/select-range-of-values-LibreOffice-new.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/04-quality-assurance.md",256,"md-image","fig/filled-range-of-values-LibreOffice-new.png","alt",FALSE
+"spreadsheets-socialsci","spreadsheets-socialsci/episodes/05-exporting-data.md",65,"md-image","fig/excel-to-csv.png","alt",FALSE
+"sql-ecology-lesson","sql-ecology-lesson/episodes/03-sql-joins.md",164,"md-image","fig/sql-joins.png","alt",FALSE
+"sql-novice-survey","sql-novice-survey/episodes/01-select.md",27,"md-image","fig/database-diagram.svg","alt",FALSE
+"sql-novice-survey","sql-novice-survey/episodes/03-filter.md",60,"md-image","fig/sql-filter.svg","alt",FALSE
+"sql-novice-survey","sql-novice-survey/episodes/06-agg.md",54,"md-image","fig/sql-aggregation.svg","alt",FALSE
+"sql-novice-survey","sql-novice-survey/episodes/07-join.md",34,"md-image","fig/sql-join-structure.svg","alt",FALSE
+"sql-novice-survey","sql-novice-survey/episodes/11-prog-R.md",130,"md-image","https://imgs.xkcd.com/comics/exploits_of_a_mom.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/02-db-browser.md",27,"md-image","fig/DB_Browser_install_2.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/02-db-browser.md",33,"md-image","fig/DB_Browser_run_1.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/02-db-browser.md",53,"md-image","fig/DB_Browser_run_2.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/02-db-browser.md",76,"md-image","fig/DB_Browser_run_3.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/02-db-browser.md",92,"md-image","fig/DB_Browser_run_4.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/04-missing-data.md",29,"md-image","fig/SQL_04_Nulls_01.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/04-missing-data.md",46,"md-image","fig/SQL_04_Nulls_02.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/04-missing-data.md",67,"md-image","fig/SQL_04_Nulls_04.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/05-creating-new-columns.md",163,"md-image","fig/SQL_05_dates_01.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/06-aggregation.md",77,"md-image","fig/SQL_06_villages.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/07-creating-tables-views.md",57,"md-image","fig/SQL_07_Import_wizard_01.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/07-creating-tables-views.md",75,"md-image","fig/SQL_07_Import_Wizard_02.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/08-sqlite-command-line.md",34,"md-image","fig/SQL_08_SQLite_shell.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/08-sqlite-command-line.md",47,"md-image","fig/SQL_08_SQLite_shell_query_example.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/08-sqlite-command-line.md",82,"md-image","fig/SQL_08_SQLite_shell_dot_commands.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/08-sqlite-command-line.md",86,"md-image","fig/SQL_08_my_filename.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/09-joins.md",45,"md-image","fig/SQL_09_maize.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/09-joins.md",57,"md-image","fig/SQL_09_maize.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/09-joins.md",93,"md-image","fig/SQL_09_join1.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/09-joins.md",199,"md-image","fig/SQL_09_Left_Outer_Join_1.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/09-joins.md",236,"md-image","fig/SQL_09_join5.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/10-other-environments.md",51,"md-image","fig/SQL_10_DataSource.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/10-other-environments.md",61,"md-image","fig/SQL_10_No_Tables.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/10-other-environments.md",65,"md-image","fig/SQL_10_Choose_Columns.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/10-other-environments.md",71,"md-image","fig/SQL_10_Choose_Columns_2.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/10-other-environments.md",81,"md-image","fig/SQL_10_return_data.png","alt",FALSE
+"sql-socialsci","sql-socialsci/episodes/10-other-environments.md",85,"md-image","fig/SQL_10_place_data.png","alt",FALSE
+"sql-socialsci","sql-socialsci/learners/setup.md",35,"md-image","./fig/DB_Browser_install_1.png","alt",FALSE
+"sql-socialsci","sql-socialsci/learners/setup.md",45,"md-image","./fig/DB_Browser_install_2.png","alt",FALSE
+"sql-socialsci","sql-socialsci/learners/setup.md",51,"md-image","./fig/SQL_01_sqlite_tools_download.png","alt",FALSE
+"sql-socialsci","sql-socialsci/learners/setup.md",63,"md-image","./fig/SQL_01_invoke_shell.png","alt",FALSE
+"sql-socialsci","sql-socialsci/learners/setup.md",73,"md-image","./fig/SQL_00_ODBC_Data_Source.png","alt",FALSE
+"wrangling-genomics","wrangling-genomics/episodes/01-background.md",29,"md-image","fig/172px-EscherichiaColi_NIAID.jpg","alt",FALSE
+"wrangling-genomics","wrangling-genomics/episodes/02-quality-control.md",30,"md-image","fig/variant_calling_workflow.png","alt",FALSE
+"wrangling-genomics","wrangling-genomics/episodes/02-quality-control.md",97,"md-image","fig/var_calling_workflow_qc.png","alt",FALSE
+"wrangling-genomics","wrangling-genomics/episodes/02-quality-control.md",339,"md-image","fig/good_quality1.8.png","alt",FALSE
+"wrangling-genomics","wrangling-genomics/episodes/02-quality-control.md",356,"md-image","fig/bad_quality1.8.png","alt",FALSE
+"wrangling-genomics","wrangling-genomics/episodes/04-variant_calling.md",25,"md-image","fig/variant_calling_workflow_align.png","alt",FALSE
+"wrangling-genomics","wrangling-genomics/episodes/04-variant_calling.md",165,"md-image","fig/sam_bam.png","alt",FALSE
+"wrangling-genomics","wrangling-genomics/episodes/04-variant_calling.md",167,"md-image","fig/sam_bam3.png","alt",FALSE
+"wrangling-genomics","wrangling-genomics/episodes/04-variant_calling.md",227,"md-image","fig/variant_calling_workflow.png","alt",FALSE
+"wrangling-genomics","wrangling-genomics/episodes/04-variant_calling.md",534,"md-image","fig/igv-screenshot.png","alt",FALSE
