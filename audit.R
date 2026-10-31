@@ -173,12 +173,12 @@ res$lesson <- if (single_repo) basename(getwd()) else str_split_i(res$file, "/",
 # A caption is not a description, so caption_only counts as missing.
 res$missing <- res$status %in% c("none", "caption_only")
 res <- res[, c("lesson", "file", "line", "type", "what", "status", "missing")]
+miss <- res[res$missing, ]
+miss <- miss[order(miss$file, miss$line), ]
 out <- if (length(commandArgs(TRUE))) commandArgs(TRUE)[1] else "alt-audit.csv"
-write.csv(res, out, row.names = FALSE)
+write.csv(miss[, names(miss) != "missing"], out, row.names = FALSE)
 
 if (single_repo) {
-  miss <- res[res$missing, ]
-  miss <- miss[order(miss$file, miss$line), ]
   cat("\nFigures missing alt text:\n")
   cat(sprintf("%s:%d: %s %s (%s)\n", miss$file, miss$line, miss$type, miss$what, miss$status), sep = "")
 }
