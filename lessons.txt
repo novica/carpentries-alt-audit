@@ -41,3 +41,12 @@ swcarpentry/r-novice-inflammation
 swcarpentry/shell-novice
 swcarpentry/shell-novice-es
 swcarpentry/sql-novice-survey
+# All lessons listed on https://www.hpc-carpentry.org/lessons/ (November 2026).
+hpc-carpentry/hpc-intro
+hpc-carpentry/hpc-workflows
+carpentries-incubator/HPC-workflow-lesson-maestro
+hpc-carpentry/hpc-python
+hpc-carpentry/hpc-chapel
+hpc-carpentry/hpc-parallel-novice
+hpc-carpentry/green-software-hpc
+hpc-carpentry/tuning_lammps
